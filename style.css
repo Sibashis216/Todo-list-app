@@ -1,0 +1,22 @@
+.heading {
+  position: absolute;
+  left: 45%;
+}
+/* .add-input-box {
+    position: relative;
+    left: 47%;
+    top: 20%;
+} */
+/* .btn-group, .btn-group-vertical {
+    position: relative;
+    left: 60%;
+    top: 139px;
+} */
+.adding-task{
+    POSITION: relative;
+    border: 2px solid;
+    width: 17%;
+    height: 9%;
+    left: 45%;
+    top: 156px;
+}
